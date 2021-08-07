@@ -22,6 +22,8 @@ mongoose
     console.log("Mongodb connected....");
   });
 
+// yolo2
+
 // Middleware
 // app.use('/posts', () => {
 //     console.log("This is a middleware that is running")
